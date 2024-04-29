@@ -60,7 +60,7 @@ int main(void)
 
 
 
-##OUTPUT
+## OUTPUT
 ![WhatsApp Image 2024-04-29 at 23 24 54_9624c54c](https://github.com/veslin23000303/Linux-Process-API-fork-wait-exec/assets/151148539/ca0439ca-eb63-47b7-8bf5-ea6a018ebb55)
 
 
@@ -105,7 +105,7 @@ exit(0);}
 
 
 
-##OUTPUT
+## OUTPUT
 ![WhatsApp Image 2024-04-29 at 23 25 25_153c054e](https://github.com/veslin23000303/Linux-Process-API-fork-wait-exec/assets/151148539/327f2872-9f3f-4da8-97a8-dcb0929a0282)
 
 
@@ -153,7 +153,7 @@ int main()
 
 
 
-##OUTPUT
+## OUTPUT
 
 ![WhatsApp Image 2024-04-29 at 23 25 57_f968be2b](https://github.com/veslin23000303/Linux-Process-API-fork-wait-exec/assets/151148539/1731023c-6ccb-4a9b-a868-7368d4b82850)
 
